@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "criado": "2026-11-03",
+    "codigo": "CASO-1",
+    "apelido": "Teste1",
+    "terapeuta": "rai",
+    "status": "Em acompanhamento",
+    "id": "0992181b-430a-4540-8ed1-75df8538839b"
+  }
+]
