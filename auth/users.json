@@ -1,7 +1,7 @@
 {
   "usuarios": {
-    "denielly": {
-      "hash": "scrypt$16384$8$1$U/wzCajpYAI40LNR2dPUgQ==$3JFhPi9Tv2KA4yI0E9woVb43zLAzvl02tKRulAAwLUhTD8Lzf/togthh7qoL8W2+yaFFjDxx7IKaNHU42hXubg=="
+    "admin": {
+      "hash": "scrypt$16384$8$1$XWeerq+WFZlg1EoJZTUXQA==$9ZfGaE1KXP6gvZ7LXCJemAbcZTnXkbFbMKyjCZqLw+AghC+xd4aiCJfmgqszgl7rW0maJyjTFeelyi6OLtSiFw=="
     }
   }
 }
