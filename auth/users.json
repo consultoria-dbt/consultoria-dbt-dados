@@ -2,10 +2,6 @@
   "usuarios": {
     "admin": {
       "hash": "scrypt$16384$8$1$XWeerq+WFZlg1EoJZTUXQA==$9ZfGaE1KXP6gvZ7LXCJemAbcZTnXkbFbMKyjCZqLw+AghC+xd4aiCJfmgqszgl7rW0maJyjTFeelyi6OLtSiFw=="
-    },
-    "denielly": {
-      "hash": "scrypt$16384$8$1$Jxv/UpF6l82vsKzI1lZvLg==$nTCSG3Z0bYLu/Sg+imDZxtqCkIlrd4rs1tailmbpBA4Ai8MQPBb9YFMR3LaWGUM9ZKrxC8AWNFir5qrAwxV3YQ==",
-      "criado": "2026-11-03"
     }
   }
 }
