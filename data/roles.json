@@ -1,7 +1,7 @@
 [
   {
     "id": "ciclo-2026-10-19",
-    "vigente": true,
+    "vigente": false,
     "inicio": "2026-10-19",
     "duracao": 8,
     "atrib": {
@@ -11,6 +11,22 @@
       "Observadora (reserva)": "sheila",
       "Registro de casos": "luna",
       "Secretária": "deni"
-    }
+    },
+    "fim": "2026-11-08"
+  },
+  {
+    "criado": "2026-11-03",
+    "vigente": true,
+    "inicio": "2026-11-09",
+    "duracao": 8,
+    "atrib": {
+      "Líder": "iago",
+      "Mindfulness": "lays",
+      "Observadora": "maria",
+      "Observadora (reserva)": "sheila",
+      "Registro de casos": "luna",
+      "Secretária": "deni"
+    },
+    "id": "0167367c-7588-4f73-85ff-13d112383874"
   }
 ]
